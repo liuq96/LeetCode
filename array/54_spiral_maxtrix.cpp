@@ -75,7 +75,7 @@ public:
     }
 };
 
-int main(){
+int main_spiral(){
     SpiralMatrix matrix;
     vector<vector<int>>m;
     m.push_back(vector<int>{7});
